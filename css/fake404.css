@@ -1,0 +1,22 @@
+/* Imports the fonts used */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
+
+body {
+  background-color: #000000;
+}
+
+p.number {
+  text-align: center;
+  color: #500000;
+  font-family: "Roboto", sans-serif;
+  font-size: 250px;
+}
+
+.hankquote {
+  color: #500000;
+  font-family: "Courier Prime", monospace;
+  text-align: center;
+  position: relative;
+  top: -220px;
+}
