@@ -23,16 +23,12 @@ body {
   color: #afafaf;
 }
 
-a[href*="youtube.com"] {
-  position: relative;
-  margin-left: auto;
-  margin-right: auto;
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  transform: translate(685px, 360px);
   display: block;
-  top: 320px;
-  left: 725px;
-  color: #afafaf;
-}
-
-a[href*="youtube.com"]:hover {
-  color: #ff0000;
 }
