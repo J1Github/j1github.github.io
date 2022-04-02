@@ -32,3 +32,11 @@ body {
   transform: translate(685px, 360px);
   display: block;
 }
+
+.link {
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  position: relative;
+  top: 320px;
+  color: #afafaf;
+}
