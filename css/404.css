@@ -13,10 +13,14 @@ p.number {
   font-size: 250px;
 }
 
-.hankquote {
+p {
   color: #ffffff;
   font-family: "Courier Prime", monospace;
   text-align: center;
-  position: relative;
-  top: -220px;
+}
+
+.link {
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  color: #afafaf;
 }

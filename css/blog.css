@@ -1,0 +1,61 @@
+/* Imports the fonts used */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
+
+body {
+  background-color: #262626;
+}
+
+.top {
+  background-color: black;
+}
+
+.caption {
+  color: white;
+  font-family: "Courier Prime", monospace;
+  text-align: center;
+}
+
+.link {
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  color: #afafaf;
+}
+
+.logo {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+h1 {
+  color: white;
+  font-family: "Courier Prime", monospace;
+}
+
+.time {
+  color: darkgrey;
+  font-family: "Courier Prime", monospace;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+main {
+  text-align: center;
+}
+
+.bottom {
+  background-color: black;
+}
+
+.bottomtime {
+  color: white;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+}
